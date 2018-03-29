@@ -1,0 +1,25 @@
+/*!
+ * Main CSS
+ * Copyright 2016 Bond Solutions, Inc.
+ * 
+ */
+ head {
+ 	background-color: grey;	
+ }
+ body {
+ 	background-color: black;
+ }
+div.bkg1 {
+	color: purple;
+	text-align: center;
+	background-color: black;
+	padding-bottom: 20px;
+}
+div.bkg2 {
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-image: url("../img/classroom.png");
+}

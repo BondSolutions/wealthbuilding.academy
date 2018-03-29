@@ -1,2 +1,1 @@
-# wealthbuilding.academy
-Wealth Building Academy site
+# enroll_renatus
